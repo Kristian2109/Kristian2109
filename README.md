@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A passionate Full stack developer from Sofia</h3>
 
-- 🔭 I’m currently working on [Student information web app](https://github.com/Kristian2109/UniSite)
+- 🔭 I’m currently working on [Event Management System](https://github.com/Kristian2109/EventManagementSystemJava)
 
-- 🌱 I’m currently learning **React, C++ and Node.js**
+- 🌱 I’m currently learning **Java and Data Warehouse**
 
-- 👯 I’m currently searching for job **Back end of Full stack**
+- 👯 I’m currently searching for job **Back end or Full stack**
 
-- 🤝 I’m looking for help with [Student information web app](https://github.com/Kristian2109/UniSite)
-
-- 💬 Ask me about **Node.js and C++**
+- 💬 Ask me about **Java, NodeJS, SQL, Python**
 
 - 📫 How to reach me **kristian.petrov1998@gmail.com**
 
