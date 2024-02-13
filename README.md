@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/Kristian2109/EventManagementSystemJava)
 
-- 🌱 I’m currently learning **Java and Data Warehouse**
+- 🌱 I’m currently learning **Backend Technologies and Data Warehouse**
 
 - 👯 I’m currently searching for job **Back end or Full stack**
 
