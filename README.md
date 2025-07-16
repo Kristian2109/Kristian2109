@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
-<h3 align="center">A passionate Full stack developer from Sofia</h3>
+<h3 align="center">A passionate Backend developer from Sofia</h3>
 
-- 🔭 I’m currently working on [Event Management System](https://github.com/Kristian2109/EventManagementSystemJava)
+- 🔭 I’m currently working on a complete No Code application
 
-- 🌱 I’m currently learning **Backend Technologies and Data Warehouse**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👯 I’m currently searching for job **Back end or Full stack**
 
-- 💬 Ask me about **Java, NodeJS, SQL, Python**
+- 💬 Ask me about **Java, NodeJS, SQL**
 
 - 📫 How to reach me **kristian.petrov1998@gmail.com**
 
